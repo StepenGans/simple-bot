@@ -1,2 +1,2 @@
-# simple-bot
-Simple bot
+# bot-epen
+Bot Termos
